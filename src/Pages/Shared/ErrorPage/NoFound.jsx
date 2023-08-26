@@ -18,7 +18,7 @@ const NoFound = () => {
         </p>
         <Link
           to="/"
-          className="mt-8 bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-full focus:outline-none shadow-md transition-shadow duration-300"
+          className="mt-8 hover:font-extrabold hover:underline bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-full focus:outline-none shadow-md transition-shadow duration-300"
         >
           Back to Home
         </Link>
