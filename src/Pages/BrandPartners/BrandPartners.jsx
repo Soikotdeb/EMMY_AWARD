@@ -21,7 +21,7 @@ const BrandPartners = () => {
     ];
 
     return (
-        <div className="py-10 bg-white">
+        <div className="py-10 px-10 bg-white">
             <p className='text-black font-semibold flex justify-center mb-5'>আমাদের পার্টনার</p>
             <Swiper
                 className="relative w-full h-full" 
@@ -45,8 +45,8 @@ const BrandPartners = () => {
                 loop={true} // Enable continuous sliding
             >
                 {images.map((image, index) => (
-                    <SwiperSlide key={index} className="flex items-center justify-center ">
-                        <img src={image} alt={`Slide ${index}`} className="w-50 h-52 rounded-lg shadow-md flex mx-auto " />
+                    <SwiperSlide key={index} className="flex items-center justify-center border p-1 rounded-lg bg-gray-50">
+                        <img src={image} alt={`Slide ${index}`} className="w-50 h-52 rounded-lg shadow-md flex mx-auto" />
                     </SwiperSlide>
                 ))}
             </Swiper>

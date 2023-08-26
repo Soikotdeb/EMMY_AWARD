@@ -1,6 +1,6 @@
 
 import { Link } from 'react-router-dom';
-import logo from '../../../assets/images/images.jpeg';
+import logo from '../../../assets/images/logo.png';
 import { useState } from 'react';
 import menuIcons from '../../../assets/images/menuIcons.png'
 
@@ -14,7 +14,7 @@ const Navbar = () => {
 
     return (
         <div>
-            <div className='h-40 bg-[#FAFAD2] flex flex-col justify-center items-center'>
+            <div className='h-56 bg-[#FAFAD2] flex flex-col justify-center items-center'>
                 <img className='w-16 mb-1' src={logo} alt="Logo" />
                 <hr className='border-2 w-36 border-black' />
                 <p className='text-2xl'>EMMY AWARD</p>
