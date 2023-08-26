@@ -25,7 +25,7 @@ const BrandPartners = () => {
             <p className='text-black font-semibold flex justify-center mb-5'>আমাদের পার্টনার</p>
             <Swiper
                 className="relative w-full h-full" 
-                spaceBetween={30}
+                spaceBetween={25}
                 navigation
                 pagination={{ clickable: true }}
                 breakpoints={{
