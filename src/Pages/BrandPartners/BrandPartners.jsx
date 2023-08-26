@@ -3,12 +3,12 @@ import React from 'react';
 import 'swiper/css';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
-import image1 from '../../assets/images/images.jpeg';
+import image1 from '../../assets/images/Codemanbd-logo.webp';
+import image3 from '../../assets/images/HiTech.png';
 import image2 from '../../assets/images/creation.jpeg';
-import image3 from '../../assets/images/images.jpeg';
-import image4 from '../../assets/images/images.jpeg';
-import image5 from '../../assets/images/images.jpeg';
-import image6 from '../../assets/images/images.jpeg';
+import image4 from '../../assets/images/greenTrust.jpeg';
+import image5 from '../../assets/images/Nishans-Media.svg';
+
 
 const BrandPartners = () => {
     const images = [
@@ -17,7 +17,7 @@ const BrandPartners = () => {
         image3,
         image4,
         image5,
-        image6,
+
     ];
 
     return (
@@ -45,7 +45,7 @@ const BrandPartners = () => {
                 loop={true} // Enable continuous sliding
             >
                 {images.map((image, index) => (
-                    <SwiperSlide key={index} className="flex items-center justify-center">
+                    <SwiperSlide key={index} className="flex items-center justify-center ">
                         <img src={image} alt={`Slide ${index}`} className="w-50 h-52 rounded-lg shadow-md flex mx-auto " />
                     </SwiperSlide>
                 ))}
