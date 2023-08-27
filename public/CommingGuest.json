@@ -1,0 +1,72 @@
+[
+    {
+        "_id": 1,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8TBDW57ModHYlAdhqR1uU7Hq5ZVVh-nkFA&usqp=CAU",
+        "title":"ভিজিটিং প্রফেসর ",
+        "name": "ডক্টর এড.আবু তাহের",
+        "from": "সিলেট প্রটেক ইউনিভার্সিটি"
+    },
+    {
+        "_id": 2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8TBDW57ModHYlAdhqR1uU7Hq5ZVVh-nkFA&usqp=CAU",
+        "title":"ভিজিটিং প্রফেসর ",
+        "name": "প্রফেসর মাহমুদুল প্রটেক",
+        "from": "ঢাকা প্রটেক কলেজ"
+    },
+    {
+        "_id": 3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8TBDW57ModHYlAdhqR1uU7Hq5ZVVh-nkFA&usqp=CAU",
+        "title":"ভিজিটিং প্রফেসর ",
+        "name": "ডঃ নাসিম প্রটেক",
+        "from": "খুলনা প্রটেক ইউনিভার্সিটি"
+    },
+    {
+        "_id": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8TBDW57ModHYlAdhqR1uU7Hq5ZVVh-nkFA&usqp=CAU",
+        "title":"ভিজিটিং প্রফেসর ",
+        "name": "প্রটন আহমেদ",
+        "from": "রাজশাহী প্রটেক কলেজ"
+    },
+    {
+        "_id": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8TBDW57ModHYlAdhqR1uU7Hq5ZVVh-nkFA&usqp=CAU",
+        "title":"ভিজিটিং প্রফেসর ",
+        "name": "ডঃ ফাহিমা প্রটেক",
+        "from": "চট্টগ্রাম প্রটেক ইউনিভার্সিটি"
+    },
+    {
+        "_id": 6,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8TBDW57ModHYlAdhqR1uU7Hq5ZVVh-nkFA&usqp=CAU",
+        "title":"ভিজিটিং প্রফেসর ",
+        "name": "প্রটি খান",
+        "from": "সিলেট প্রটেক কলেজ"
+    },
+    {
+        "_id": 7,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8TBDW57ModHYlAdhqR1uU7Hq5ZVVh-nkFA&usqp=CAU",
+        "title":"ভিজিটিং প্রফেসর ",
+        "name": "ডঃ সাবিনা প্রটেক",
+        "from": "খুলনা প্রটেক ইউনিভার্সিটি"
+    },
+    {
+        "_id": 8,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8TBDW57ModHYlAdhqR1uU7Hq5ZVVh-nkFA&usqp=CAU",
+        "title":"ভিজিটিং প্রফেসর ",
+        "name": "প্রটিমা হাসান",
+        "from": "রাজশাহী প্রটেক স্কুল"
+    },
+    {
+        "_id": 9,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8TBDW57ModHYlAdhqR1uU7Hq5ZVVh-nkFA&usqp=CAU",
+        "title":"ভিজিটিং প্রফেসর ",
+        "name": "ডঃ তানজীলা প্রটেক",
+        "from": "ঢাকা প্রটেক ইউনিভার্সিটি"
+    },
+    {
+        "_id": 10,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8TBDW57ModHYlAdhqR1uU7Hq5ZVVh-nkFA&usqp=CAU",
+        "title":"ভিজিটিং প্রফেসর ",
+        "name": "প্রটোন বেগ",
+        "from": "চট্টগ্রাম প্রটেক স্কুল"
+    }
+]
