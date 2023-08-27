@@ -47,6 +47,7 @@ const Navbar = () => {
         <Link className="block  custom-hover-underline py-2 px-4 hover:text-amber-600" to="/nominations">নমিনেশন জমা</Link>
         <Link className="block  custom-hover-underline py-2 px-4 hover:text-amber-600" to="/gallery">গ্যালারি</Link>
         <Link to="/contacts" className="block  custom-hover-underline py-2 px-4 hover:text-amber-600"> যোগাযোগ</Link>
+        <Link to="" className="block  custom-hover-underline py-2 px-4 hover:text-amber-600"> ড্যাশবোর্ড</Link>
         <Link to="#" className="bg-amber-500 rounded-lg p-2 text-white hover:underline"> রেজিস্ট্রেশন</Link>
       </div>
       {/* Mobile Nav - Collapsible */}
@@ -56,7 +57,8 @@ const Navbar = () => {
           <Link to="/Introduction" className="block py-2 px-4 hover:underline"> পরিচিতি </Link>
           <Link to="/nominations" className="block py-2 px-4 hover:underline"> নমিনেশন জমা </Link>
           <Link to="/gallery" className="block py-2 px-4 hover:underline"> গ্যালারি  </Link>
-          <Link to="/contacts" className="block p hover:underline underline y-2 px-4"> যোগাযোগ </Link> 
+          <Link to="/contacts" className="block p hover:underline y-2 px-4"> যোগাযোগ </Link> 
+          <Link to="" className="block p hover:underline  y-2 px-4 mt-2"> ড্যাশবোর্ড </Link> 
           <Link to="#" className="block py-2 px-4 hover:underline bg-amber-500 text-white ">  রেজিস্ট্রেশন  </Link>
         </div>
       )}
