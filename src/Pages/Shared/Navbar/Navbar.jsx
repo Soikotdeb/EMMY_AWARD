@@ -44,7 +44,7 @@ const Navbar = () => {
       <div className="bg-gray-200 h-16 gap-5 flex justify-center items-center font-semibold md:flex hidden">
         <Link className="block  custom-hover-underline py-2 px-4 hover:text-amber-600" to="/">প্রথমপাতা</Link>
         <Link className="block  custom-hover-underline py-2 px-4 hover:text-amber-600" to="/Introduction">পরিচিতি</Link>
-        <Link className="block  custom-hover-underline py-2 px-4 hover:text-amber-600" to="#">নমিনেশন জমা</Link>
+        <Link className="block  custom-hover-underline py-2 px-4 hover:text-amber-600" to="/nominations">নমিনেশন জমা</Link>
         <Link className="block  custom-hover-underline py-2 px-4 hover:text-amber-600" to="#">গ্যালারি</Link>
         <Link to="/contacts" className="block  custom-hover-underline py-2 px-4 hover:text-amber-600"> যোগাযোগ</Link>
         <Link to="#" className="bg-amber-500 rounded-lg p-2 text-white hover:underline"> রেজিস্ট্রেশন</Link>
@@ -54,7 +54,7 @@ const Navbar = () => {
         <div className="bg-gray-200 h-auto md:hidden">
           <Link to="/" className="block py-2 px-4 hover:underline"> প্রথমপাতা </Link>
           <Link to="/Introduction" className="block py-2 px-4 hover:underline"> পরিচিতি </Link>
-          <Link to="#" className="block py-2 px-4 hover:underline"> নমিনেশন জমা </Link>
+          <Link to="/nominations" className="block py-2 px-4 hover:underline"> নমিনেশন জমা </Link>
           <Link to="#" className="block py-2 px-4 hover:underline"> গ্যালারি  </Link>
           <Link to="/contacts" className="block p hover:underline underline y-2 px-4"> যোগাযোগ </Link> 
           <Link to="#" className="block py-2 px-4 hover:underline bg-amber-500 text-white">  রেজিস্ট্রেশন  </Link>

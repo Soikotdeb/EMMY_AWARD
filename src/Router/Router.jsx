@@ -4,6 +4,7 @@ import NoFound from "../Pages/Shared/ErrorPage/NoFound";
 import Home from "../Pages/Home/Home";
 import Contact from "../Pages/Contacts/Contact";
 import Introduction from "../Pages/Introduction/Introduction";
+import Nominations from "../Pages/nominations/nominations";
 
 
 export const router = createBrowserRouter([
@@ -23,6 +24,10 @@ export const router = createBrowserRouter([
         {
           path:'Introduction',
           element:<Introduction></Introduction>
+        },
+        {
+          path:'nominations',
+          element:<Nominations></Nominations>
         }
 
       ]
