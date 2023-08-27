@@ -5,6 +5,7 @@ import Home from "../Pages/Home/Home";
 import Contact from "../Pages/Contacts/Contact";
 import Introduction from "../Pages/Introduction/Introduction";
 import Nominations from "../Pages/nominations/nominations";
+import Gallery from "../Pages/Gallery/Gallery";
 
 
 export const router = createBrowserRouter([
@@ -28,6 +29,10 @@ export const router = createBrowserRouter([
         {
           path:'nominations',
           element:<Nominations></Nominations>
+        },
+        {
+          path:'gallery',
+          element:<Gallery></Gallery>
         }
 
       ]
